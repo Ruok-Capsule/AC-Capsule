@@ -24,7 +24,7 @@ My english is not good im a german guy so sorry for this  ;)
 ***Step 2*** install these packets 
          sudo apt-get update && sudo apt-get install git cmake make gcc g++ clang libmysqlclient-dev libssl-dev libbz2-dev libreadline-dev              
          libncurses-dev mysql-server libace-6.* libace-dev libace-6.4.5 libmariadb-dev  
-         ---sudo apt install mysql-server
+         
         
          <you dont need all these packets 
          but maybe u will compile core later by yourself then you need all>
